@@ -56,7 +56,7 @@
             </p>
             <p>
               The process of setting this up starts with registering a merchant account with the
-              SolPayments program. During this merchant registration you specify the subscription
+              FYFY Payments program. During this merchant registration you specify the subscription
               packages and their price. Like so:
             </p>
             {#if !$subscriptionMerchant}

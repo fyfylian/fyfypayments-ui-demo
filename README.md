@@ -1,6 +1,6 @@
-# Sol Payments Processor Demo
+# FYFY Payments Processor Demo
 
-This repo contains the code for the demo of the [Sol Payments](https://github.com/solpayments/solana-payment-processor) program.
+This repo contains the code for the demo of the [SOl Payments](https://github.com/fyfylian/solana-payment-processor) program.
 
 ## Getting started
 

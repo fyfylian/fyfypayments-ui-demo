@@ -19,7 +19,7 @@
   import Home from './demos/Home.svelte';
   import './styles/normalize.css';
   import './styles/milligram.css';
-  import './styles/solpayments.css';
+  import './styles/FYFY Payments.css';
 
   export let mintAddress: string;
   export let url = '';
@@ -50,7 +50,7 @@
       <div class="row">
         <div class="column" use:links>
           <Router>
-            <a href="/" class="logo"><img src="/logo.jpg" alt="SolPayments" /></a>
+            <a href="/" class="logo"><img src="/logo.jpg" alt="FYFY Payments" /></a>
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon" /></label>
             <ul class="menu">
@@ -66,7 +66,7 @@
   <div class="container">
     <div class="row">
       <div class="column">
-        <div id="solpayments">
+        <div id="FYFY Payments">
           <Route path="/"><Home /></Route>
 
           {#if $connected}

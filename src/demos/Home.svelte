@@ -15,14 +15,14 @@
   </div>
   <div class="row">
     <div class="column">
-      <h3>Welcome to SolPayments demo</h3>
+      <h3>Welcome to FYFY Payments demo</h3>
       <p>
-        SolPayments is a payment processing platform for crypto-currencies which allows individuals
+        FYFY Payments is a payment processing platform for crypto-currencies which allows individuals
         and businesses of all sizes to accept payments on their websites, online shops, and
         decentralized apps.
       </p>
       <p>
-        We have the following demos ready for you to try out :). SolPayments is currently only on
+        We have the following demos ready for you to try out :). FYFY Payments is currently only on
         Solana's <strong>devnet</strong> network.
       </p>
       <p>You are going to need some SOL in your devnet wallet to go through the demo.</p>

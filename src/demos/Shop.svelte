@@ -46,7 +46,7 @@
             </p>
             <p>
               The process of setting this up starts with registering a merchant account with the
-              SolPayments program.
+              FYFY Payments program.
             </p>
             <div class="row">
               <div class="column">
