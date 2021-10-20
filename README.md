@@ -1,7 +1,6 @@
 # FYFY Payments Processor Demo
-https://fyfy-payment-demo.netlify.app/
 
-This repo contains the code for the demo of the [SOl Payments](https://github.com/fyfylian/solana-payment-processor) program.
+This repo contains the code for the demo of the [FYFY Payments](https://fyfy-payment-demo.netlify.app/) program.
 
 ## Getting started
 
