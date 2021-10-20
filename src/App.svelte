@@ -19,7 +19,7 @@
   import Home from './demos/Home.svelte';
   import './styles/normalize.css';
   import './styles/milligram.css';
-  import './styles/fyfyPayments.css';
+  import './styles/fyfypayments.css';
 
   export let mintAddress: string;
   export let url = '';
